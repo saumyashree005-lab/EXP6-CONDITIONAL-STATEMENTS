@@ -80,47 +80,35 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Stop
 
 - Algorithm 7 : Gross Salary Calculator
+
 - Start
-
--Input basic salary
-
-If basic = 10000
+- Input basic salary
+- If basic = 10000
 → HRA = 20% of basic
 → DA = 80% of basic
-
-Else if basic = 20000
+- Else if basic = 20000
 → HRA = 25% of basic
 → DA = 20% of basic
-
-Otherwise
+- Otherwise
 → HRA = 30% of basic
 → DA = 95% of basic
+- Compute gross salary = basic + HRA + DA
+- Display basic salary and gross salary
+- Stop
 
-Compute gross salary = basic + HRA + DA
+- Algorithm 8 : Income tax calculator
 
-Display basic salary and gross salary
-
-Stop
-
-Algorithm 8 : Income tax calculator
-Start
-
-Input annual income
-
-If income ≤ 2,50,000 → tax = 0
-
-Else if income ≤ 5,00,000
+- Start
+- Input annual income
+- If income ≤ 2,50,000 → tax = 0
+- else if income ≤ 5,00,000
 → tax = 5% of (income − 2,50,000)
-
-Else if income ≤ 10,00,000
+- Else if income ≤ 10,00,000
 → tax = tax on previous slab + 20% of remaining income
-
-Else
+- Else
 → tax on previous slabs + 30% of remaining income
-
-Display tax amount
-
-Stop
+- Display tax amount
+- Stop
 
 CONCLUSION
 These programs illustrate the effective use of conditional statements in Python for solving real-life problems.
