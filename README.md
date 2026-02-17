@@ -2,6 +2,8 @@ NAME - SAUMYA SHREE PRN - 25070123161
 # Exp--6
 # Title : Study of conditional statement in Python
 
+##AIM : To study about conditional statements
+
 **THEORY**
 - Conditional statements in Python are used to make decisions based on conditions.
  
