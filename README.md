@@ -22,7 +22,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - These concepts improve logical thinking and problem-solving skills in programming
 
 **ALGORITHMS**
-- Algorithm 1: Check whether a number is Positive, Negative, or Zero
+## Algorithm 1: Check whether a number is Positive, Negative, or Zero
 - Start
 - Read a number from the user
 - If number > 0, print Positive
@@ -30,14 +30,14 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Else, print Negative
 - Stop
 
--  Algorithm 2: Check whether a number is Even or Odd
+## Algorithm 2: Check whether a number is Even or Odd
 - Start
 - Read a number from the user
 - If number modulo 2 equals 0, print Even
 - Else, print Odd
 - Stop
 
--  Algorithm 3: Find the Largest of Three Numbers
+## Algorithm 3: Find the Largest of Three Numbers
 - Start
 - Read three numbers from the user
 - Compare first number with second and third
@@ -46,7 +46,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Else, print the third number
 - Stop
 
-- Algorithm 4: Calculate Grade using If-Elif-Else
+## Algorithm 4: Calculate Grade using If-Elif-Else
 - Start
 - Read marks from the user
 - If marks ≥ 90, print Grade A
@@ -56,7 +56,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Else, print Fail
 - Stop
 
-- Algorithm 5: Check Leap Year
+## Algorithm 5: Check Leap Year
 - Start
 - Read year from the user
 - If year divisible by 400, it is a leap year
@@ -64,7 +64,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Else, it is not a leap year
 - Stop
 
-- Algorithm 6: Increment a Date by One Day
+## Algorithm 6: Increment a Date by One Day
 - Start
 - Read day, month, and year from the user
 - Store number of days in each month
@@ -79,7 +79,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Display the next date
 - Stop
 
-- Algorithm 7 : Gross Salary Calculator
+## Algorithm 7 : Gross Salary Calculator
 
 - Start
 - Input basic salary
@@ -96,7 +96,7 @@ NAME - SAUMYA SHREE PRN - 25070123161
 - Display basic salary and gross salary
 - Stop
 
-- Algorithm 8 : Income tax calculator
+## Algorithm 8 : Income tax calculator
 
 - Start
 - Input annual income
